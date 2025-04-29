@@ -1,16 +1,4 @@
-# 置顶/Precautions
-
-> [!Caution]
-> 禁止任何形式的转载或发布至🇨🇳大陆平台
->
-> Any form of reprinting or posting to the 🇨🇳 mainland platform is prohibited
-
-> [!WARNING]
-> 中国大陆用户使用请遵守本国法律法规
->
-> Mainland China users please abide by the laws and regulations of your country.
-
-## 免责申明/Disclaimer
+# 免责申明/Disclaimer
 
 > [!IMPORTANT]
 > 任何以任何方式查看此项目的人或直接或间接使用该项目的使用者都应仔细阅读此声明。
@@ -35,8 +23,8 @@
 
 - 考虑到部分机场热门地区节点有高低倍率之分，根据普遍情况设置了自动选择组（仅保留标准节点）和手动组（全部节点）
 
-- 本项目提供适用于mihomo/Stash的[游戏规则](https://github.com/Lanlan13-14/Rules/tree/main/rules%2FGame)，但考虑到这类规则的特殊性，需要请自行添加
-mihomo使用mrs格式文件，Stash使用yaml格式文件
+- 本项目提供适用于Nikki/Stash的[游戏规则](https://github.com/Lanlan13-14/Rules/tree/main/rules%2FGame)，但考虑到这类规则的特殊性，需要请自行添加
+Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 - 本项目的订阅转换模板/yaml文件是参考 ACL4SSR，Aethersailor等规则修改而来，基于作者个人理解做出的修改，另外我的更新不固定建议每2-3周下载一次配置文件替换，以获得最佳体验/也可配合Substore一同使用达到如同使用订阅链接的效果(每次更新订阅即会自动拉取配置文件更新，无需手动下载上传)，同时感谢各位的大力支持
 
@@ -59,7 +47,7 @@ mihomo使用mrs格式文件，Stash使用yaml格式文件
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Mihomo使用/For Mihomo（支持最新tf版stash）➡️
+[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Mihomo（支持最新tf版stash）➡️
 
 **[configfull_NoAd.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)**
 
@@ -70,7 +58,7 @@ mihomo使用mrs格式文件，Stash使用yaml格式文件
 ### Lite版本/Lite version
 ###### 该版本高度依赖Geo数据库，请及时更新您的数据库/This version is highly dependent on the Geo database, please update your database in time.
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)Mihomo使用/For Mihomo（支持最新tf版stash）➡️
+[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
 
 **[configfull_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)**
 
@@ -80,7 +68,7 @@ mihomo使用mrs格式文件，Stash使用yaml格式文件
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)Mihomo使用/For Mihomo（支持最新tf版stash）➡️
+[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
 
 **[configfull_NoAd_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)**
 
