@@ -36,7 +36,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 ### 标准版/Standard
 
-[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)Mihomo使用/For Mihomo（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
 **[configfull.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)**
 
 [![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash.yaml)Stash使用/For Stash➡️
@@ -44,7 +44,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Mihomo（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
 
 **[configfull_NoAd.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)**
 
@@ -90,11 +90,6 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 [![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://apps.apple.com/app/stash/id1596063349?platform=iphone&l=zh-CN)[Stash](https://apps.apple.com/app/stash/id1596063349?platform=iphone&l=zh-CN)
 
 [![Pharos](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/pharos-mini.png)](https://apps.apple.com/us/app/pharos-pro/id1456610173)[Pharos](https://apps.apple.com/us/app/pharos-pro/id1456610173)
-
-•鸿蒙/HarmonyOS
-
-[![ClashNEXT](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/clash-next-mini.png)](https://github.com/xiaobaigroup/hapapp)[ClashNEXT](https://github.com/xiaobaigroup/hapapp)
-
 
 •Openwrt
 
