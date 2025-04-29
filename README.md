@@ -36,42 +36,28 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 ### 标准版/Standard
 
-[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
-**[configfull.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)**
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️ **[configfull.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)**
 
-[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash.yaml)Stash使用/For Stash➡️
-**[configfull_Stash.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash.yaml)**
+[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash.yaml)Stash使用/For Stash➡️ **[configfull_Stash.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash.yaml)**
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️ **[configfull_NoAd.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)**
 
-**[configfull_NoAd.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)**
-
-[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash.yaml)Stash使用/For Stash➡️
-
-**[configfull_NoAd_Stash.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash.yaml)**
+[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash.yaml)Stash使用/For Stash➡️ **[configfull_NoAd_Stash.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash.yaml)**
 
 ### Lite版本/Lite version
 ###### 该版本高度依赖Geo数据库，请及时更新您的数据库/This version is highly dependent on the Geo database, please update your database in time.
 
-[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️ **[configfull_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)**
 
-**[configfull_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)**
-
-[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash_lite.yaml)Stash使用/For Stash➡️
-
-**[configfull_Stash_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash_lite.yaml)**
+[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash_lite.yaml)Stash使用/For Stash➡️ **[configfull_Stash_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash_lite.yaml)**
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️ **[configfull_NoAd_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)**
 
-**[configfull_NoAd_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)**
-
-[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash_lite.yaml)Stash使用/For Stash➡️
-
-**[configfull_NoAd_Stash_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash_lite.yaml)**
+[![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash_lite.yaml)Stash使用/For Stash➡️ **[configfull_NoAd_Stash_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_Stash_lite.yaml)**
 
 ## 客户端推荐/Client Recommendation
 •Windows/MacOS/Linux
