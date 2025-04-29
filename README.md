@@ -36,7 +36,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 ### 标准版/Standard
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)Mihomo使用/For Mihomo（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)Mihomo使用/For Mihomo（支持最新tf版stash）➡️
 **[configfull.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull.yaml)**
 
 [![Stash](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/stash-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_Stash.yaml)Stash使用/For Stash➡️
@@ -44,7 +44,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Mihomo（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)Nikki使用/For Mihomo（支持最新tf版stash）➡️
 
 **[configfull_NoAd.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd.yaml)**
 
@@ -55,7 +55,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 ### Lite版本/Lite version
 ###### 该版本高度依赖Geo数据库，请及时更新您的数据库/This version is highly dependent on the Geo database, please update your database in time.
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
 
 **[configfull_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_lite.yaml)**
 
@@ -65,7 +65,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 
 ##### 无广告拦截版/No ad blocking version
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)Nikki使用/For Nikki（支持最新tf版stash）➡️
 
 **[configfull_NoAd_lite.yaml](https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/configfull_NoAd_lite.yaml)**
 
@@ -77,7 +77,7 @@ Nikki使用mrs格式文件，Stash使用yaml格式文件
 •Windows/MacOS/Linux
 
 
-[![Mihomo](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://github.com/xishang0128/clash-meta-party)[Clash-meta-Party](https://github.com/xishang0128/clash-meta-party)（若出现DNS泄漏请打开严格路由）
+[![Nikki](https://raw.githubusercontent.com/Lanlan13-14/Icon-for-webui/refs/heads/main/mihomo-mini.png)](https://github.com/xishang0128/clash-meta-party)[Clash-meta-Party](https://github.com/xishang0128/clash-meta-party)（若出现DNS泄漏请打开严格路由）
 
 
 •Android
